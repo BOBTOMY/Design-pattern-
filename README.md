@@ -1,2 +1,2 @@
-# Design-pattern-
+# Design-pattern
 Android Design pattern
